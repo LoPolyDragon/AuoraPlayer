@@ -118,4 +118,4 @@ If you hit a crash or want to propose a feature, please open an issue and follow
 Aurora Player is released under the **MIT License**.  
 See [`LICENSE`](LICENSE) for details.
 
-Made with ❤️ + 🎧 in California. 
+Made By Nova Forge Studio
